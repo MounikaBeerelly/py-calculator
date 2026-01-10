@@ -1,6 +1,11 @@
 # py-calculator
 Python Calculator Package
 
+## Installation
+```bash
+pip install py-calculator-mounika
+
+
 ### Python Extensions :
 1. **Python (MS)** : Core Python support in VS code
     - Syntax highlighting
