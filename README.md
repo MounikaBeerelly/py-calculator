@@ -1,10 +1,10 @@
 # py-calculator
 Python Calculator Package
 
-## Installation
+### Installation
 ```bash
-pip install py-calculator-mounika
-
+pip install py-calculator-test
+```
 
 ### Python Extensions :
 1. **Python (MS)** : Core Python support in VS code
